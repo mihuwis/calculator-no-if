@@ -10,15 +10,10 @@ Create calculator for five arithmetic operations:
 - modulo
 
 ### Entry
-Na wejście programu podana zostanie pewna nieokreślona liczba zestawów danych. Zestawy
-składają się z jednoznakowego symbolu operacji do wykonania (+ dodawanie, - odejmowanie, *
-mnożenie, / dzielenie całkowitoliczbowe, % reszta z dzielenia) oraz następujących po nim
-dwóch liczb całkowitych. Poszczególne składowe zestawu zostaną rozdzielone spacjami, a
-same zestawy znakiem nowej linii. Liczba testów nie przekracza 100, wynik zawiera się w typie
-int32.
-### Exit
-Na wyjściu programu ma się pojawić ciąg liczb będących rezultatem wykonania pojawiających
-się na wejściu poleceń. Poszczególne liczby należy rozdzielić znakami nowej linii. Uwaga!
+On entry got undefined amount of data sets. Each set consist of arythmetic symbol, followed by two intigers separated by space
+Each set is separated by new line. 
+Numbers are int 32
+
 
 ###Exemples
 ###Entry:
