@@ -5,6 +5,7 @@ import com.progresspoint.utils.InvalidInputStucture;
 import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class StringInputProcessorTest {
 
